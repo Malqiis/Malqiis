@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Malqiis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Balqiis
+- 👀 I’m interested in make a pattern in your heart that is still white
+- 🌱 I’m currently learning how to learn
+- 💞️ I’m looking to collaborate on how to spell im curious
+- 📫 How to reach me before its gonna worst
 
 <!---
 Malqiis/Malqiis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
