@@ -5,6 +5,6 @@
 - 📫 Reach out to me before the silence grows louder
 
 <!---
-Malqiis/Malqiis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Malqist/Malqist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
